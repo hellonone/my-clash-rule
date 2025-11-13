@@ -1,2 +1,4 @@
 payload:
-  - 'mircrosoft.com'
+  - 'microsoft.com'
+  - 'www.microsoft.com'
+  - '+.dcg.microsoft.com'
