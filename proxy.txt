@@ -1,2 +1,4 @@
 payload:
   - 'google.com'
+  - '+.steamcontent.com'
+  - '+.sharepoint.com'
