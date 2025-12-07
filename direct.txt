@@ -2,3 +2,4 @@ payload:
   - 'microsoft.com'
   - 'www.microsoft.com'
   - '+.dcg.microsoft.com'
+  - '+.flyme.com'
