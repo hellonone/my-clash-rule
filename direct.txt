@@ -20,3 +20,4 @@ payload:
   - 'SUFFIX,steamcontent.com'
   - 'SUFFIX,steamserver.net'
   - 'SUFFIX,steamusercontent.com'
+  - '+.filecr.com'
