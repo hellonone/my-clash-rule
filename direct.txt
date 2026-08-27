@@ -21,3 +21,5 @@ payload:
   - 'SUFFIX,steamserver.net'
   - 'SUFFIX,steamusercontent.com'
   - '+.filecr.com'
+  - '+.kaspersky.com'
+  - '+.kaspersky.com.cn'
